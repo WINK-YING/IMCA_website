@@ -1,12 +1,12 @@
 # site properties and page defaults
-title: imca战队
-subtitle: 循梦而行，向阳而生
+title: IMCA战队
+subtitle: 
 description: 安慕希战队
 header: images/background.jpg
 header-video: images/bgvideo.mp4
 footer: images/background.jpg
 proofer: false
-slogan: 一往无前华科行，气壮山河狼牙名
+slogan: 循梦而行,向阳而生
 # site social media and other links
 links:
   email: contact@WINK-YINGDESCRIPTION=An engaging 1-3 sentence description of your lab..com
